@@ -1,0 +1,7 @@
+# Tested with Python 3.12.  Everything is CPU-only; no GPU, no MPI, no multithreading
+# is required.  Versions below are the ones the shipped results/ were produced with;
+# the code has no features newer than numpy 1.26 / pandas 2.0 / matplotlib 3.7.
+numpy>=1.26,<3
+pandas>=2.0,<4
+matplotlib>=3.7,<4
+pytest>=7.0          # tests only
