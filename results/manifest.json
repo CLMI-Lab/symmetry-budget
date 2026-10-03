@@ -1,0 +1,1377 @@
+[
+  {
+    "path": "VALIDATION.md",
+    "bytes": 12108,
+    "sha256_16": "961212aa44ad4ffd"
+  },
+  {
+    "path": "_stage_cache.json",
+    "bytes": 5795,
+    "sha256_16": "6a7b091f36ce1bc6"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.05_n20_k1.npz",
+    "bytes": 4754,
+    "sha256_16": "dd0325d740368baf"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.05_n20_k16.npz",
+    "bytes": 2960,
+    "sha256_16": "45b045920bfeb4f9"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.05_n20_k2.npz",
+    "bytes": 3843,
+    "sha256_16": "e2fa00856550f7d0"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.05_n20_k4.npz",
+    "bytes": 3373,
+    "sha256_16": "335531e0a8a6bd10"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.05_n20_k8.npz",
+    "bytes": 3106,
+    "sha256_16": "cb682ddbbcabda25"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.05_n250_k1.npz",
+    "bytes": 4741,
+    "sha256_16": "35604d5681fcdd1b"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.05_n250_k16.npz",
+    "bytes": 2965,
+    "sha256_16": "a3acf3c5264c5d7c"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.05_n250_k2.npz",
+    "bytes": 3846,
+    "sha256_16": "7113a056ce74106d"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.05_n250_k4.npz",
+    "bytes": 3374,
+    "sha256_16": "5bb4c1d6f8a37d6b"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.05_n250_k8.npz",
+    "bytes": 3115,
+    "sha256_16": "3cc3d4791264517b"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.05_n4000_k1.npz",
+    "bytes": 4751,
+    "sha256_16": "7ea202d76968300f"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.05_n4000_k16.npz",
+    "bytes": 2968,
+    "sha256_16": "d9e68a34451e2f45"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.05_n4000_k2.npz",
+    "bytes": 3850,
+    "sha256_16": "d720e16caf39f25c"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.05_n4000_k4.npz",
+    "bytes": 3367,
+    "sha256_16": "bd82d99da2860151"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.05_n4000_k8.npz",
+    "bytes": 3110,
+    "sha256_16": "87baf5e868e9bb13"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.1_n20_k1.npz",
+    "bytes": 4743,
+    "sha256_16": "d0311582bed7d069"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.1_n20_k16.npz",
+    "bytes": 2961,
+    "sha256_16": "5ff0c4362387d08b"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.1_n20_k2.npz",
+    "bytes": 3840,
+    "sha256_16": "9bb2c27787fdf417"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.1_n20_k4.npz",
+    "bytes": 3371,
+    "sha256_16": "ee67fb471c98a4d4"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.1_n20_k8.npz",
+    "bytes": 3107,
+    "sha256_16": "2390ce2f98553c1e"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.1_n250_k1.npz",
+    "bytes": 4744,
+    "sha256_16": "6f947d951c76da63"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.1_n250_k16.npz",
+    "bytes": 2961,
+    "sha256_16": "0d547d180101d965"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.1_n250_k2.npz",
+    "bytes": 3853,
+    "sha256_16": "265234a8ba006155"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.1_n250_k4.npz",
+    "bytes": 3376,
+    "sha256_16": "e37e7d8914c064c5"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.1_n250_k8.npz",
+    "bytes": 3119,
+    "sha256_16": "ed354814a6b9b2a9"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.1_n4000_k1.npz",
+    "bytes": 4753,
+    "sha256_16": "a1154eadae061200"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.1_n4000_k16.npz",
+    "bytes": 2963,
+    "sha256_16": "743a86dd803e35f5"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.1_n4000_k2.npz",
+    "bytes": 3853,
+    "sha256_16": "84db9d7808c56bbc"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.1_n4000_k4.npz",
+    "bytes": 3371,
+    "sha256_16": "3724591f5414cc37"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.1_n4000_k8.npz",
+    "bytes": 3112,
+    "sha256_16": "88ff8a48575b54b8"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.2_n20_k1.npz",
+    "bytes": 4747,
+    "sha256_16": "8bbcaaf24ba87261"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.2_n20_k16.npz",
+    "bytes": 2956,
+    "sha256_16": "940ac10a97455b64"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.2_n20_k2.npz",
+    "bytes": 3834,
+    "sha256_16": "da3f0eea6cc0586e"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.2_n20_k4.npz",
+    "bytes": 3369,
+    "sha256_16": "1b6295f9fdb71750"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.2_n20_k8.npz",
+    "bytes": 3106,
+    "sha256_16": "128a21a9adf1a6fe"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.2_n250_k1.npz",
+    "bytes": 4742,
+    "sha256_16": "7a8a326780b440ff"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.2_n250_k16.npz",
+    "bytes": 2958,
+    "sha256_16": "6676865d2cf47708"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.2_n250_k2.npz",
+    "bytes": 3843,
+    "sha256_16": "093daca0b7770723"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.2_n250_k4.npz",
+    "bytes": 3371,
+    "sha256_16": "812e9a6a668737cc"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.2_n250_k8.npz",
+    "bytes": 3112,
+    "sha256_16": "531cb34d5975e746"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.2_n4000_k1.npz",
+    "bytes": 4755,
+    "sha256_16": "bdeb104442742e31"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.2_n4000_k16.npz",
+    "bytes": 2958,
+    "sha256_16": "5c8c709cc4cf59d9"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.2_n4000_k2.npz",
+    "bytes": 3838,
+    "sha256_16": "608479f4a701904b"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.2_n4000_k4.npz",
+    "bytes": 3363,
+    "sha256_16": "bc1fc26d0648c6d1"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.2_n4000_k8.npz",
+    "bytes": 3108,
+    "sha256_16": "778fdf8164985de3"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.4_n20_k1.npz",
+    "bytes": 4753,
+    "sha256_16": "ddf2ef7490fbbf58"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.4_n20_k16.npz",
+    "bytes": 2964,
+    "sha256_16": "dda1e1c7e2fd9463"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.4_n20_k2.npz",
+    "bytes": 3848,
+    "sha256_16": "b03d6c4ccb1f0eea"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.4_n20_k4.npz",
+    "bytes": 3366,
+    "sha256_16": "82c8215d173cf9ac"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.4_n20_k8.npz",
+    "bytes": 3105,
+    "sha256_16": "22b065a835d05f35"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.4_n250_k1.npz",
+    "bytes": 4748,
+    "sha256_16": "97383d2f18ecdc43"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.4_n250_k16.npz",
+    "bytes": 2962,
+    "sha256_16": "402dfa04ffb58b65"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.4_n250_k2.npz",
+    "bytes": 3839,
+    "sha256_16": "bf1e613bd4678439"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.4_n250_k4.npz",
+    "bytes": 3378,
+    "sha256_16": "dcc47addf392f79a"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.4_n250_k8.npz",
+    "bytes": 3114,
+    "sha256_16": "5c963836309b8f0e"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.4_n4000_k1.npz",
+    "bytes": 4748,
+    "sha256_16": "cb0a85635be8d92e"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.4_n4000_k16.npz",
+    "bytes": 2962,
+    "sha256_16": "724341542ea39e9e"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.4_n4000_k2.npz",
+    "bytes": 3846,
+    "sha256_16": "572311e2983faf42"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.4_n4000_k4.npz",
+    "bytes": 3366,
+    "sha256_16": "e49b3569deb217d2"
+  },
+  {
+    "path": "checkpoints/models/dim_d16_eps0.4_n4000_k8.npz",
+    "bytes": 3110,
+    "sha256_16": "5c17b41e8d74ffbf"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.05_n20_k1.npz",
+    "bytes": 1815,
+    "sha256_16": "e1450781af00fdd7"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.05_n20_k2.npz",
+    "bytes": 1579,
+    "sha256_16": "f6c0a0d8c6307e4f"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.05_n20_k4.npz",
+    "bytes": 1456,
+    "sha256_16": "3e137e4c7ee72405"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.05_n20_k8.npz",
+    "bytes": 1373,
+    "sha256_16": "cedff7e3521a56d2"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.05_n4000_k1.npz",
+    "bytes": 1814,
+    "sha256_16": "b6f9954eb5ff8e4e"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.05_n4000_k2.npz",
+    "bytes": 1588,
+    "sha256_16": "1051843eb44e7187"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.05_n4000_k4.npz",
+    "bytes": 1456,
+    "sha256_16": "3545aa9c1f15b0d2"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.05_n4000_k8.npz",
+    "bytes": 1372,
+    "sha256_16": "258d3615f0fc578f"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.05_n700_k1.npz",
+    "bytes": 1813,
+    "sha256_16": "15fc21aaeefff201"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.05_n700_k2.npz",
+    "bytes": 1583,
+    "sha256_16": "a3b18637b715e759"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.05_n700_k4.npz",
+    "bytes": 1454,
+    "sha256_16": "f3c11f5db4114070"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.05_n700_k8.npz",
+    "bytes": 1375,
+    "sha256_16": "fad84e8164cb0447"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.1_n20_k1.npz",
+    "bytes": 1812,
+    "sha256_16": "011f37ad088286af"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.1_n20_k2.npz",
+    "bytes": 1580,
+    "sha256_16": "7fc127a61b89d16b"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.1_n20_k4.npz",
+    "bytes": 1458,
+    "sha256_16": "d7a602324ddb3eb2"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.1_n20_k8.npz",
+    "bytes": 1373,
+    "sha256_16": "873e93970e919166"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.1_n4000_k1.npz",
+    "bytes": 1814,
+    "sha256_16": "417c6e1f977ffa74"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.1_n4000_k2.npz",
+    "bytes": 1581,
+    "sha256_16": "438e6c3cb89c1ac6"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.1_n4000_k4.npz",
+    "bytes": 1452,
+    "sha256_16": "adc640fe5eac9710"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.1_n4000_k8.npz",
+    "bytes": 1377,
+    "sha256_16": "8cfaa40a7d08749a"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.1_n700_k1.npz",
+    "bytes": 1811,
+    "sha256_16": "f4f823540933daba"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.1_n700_k2.npz",
+    "bytes": 1578,
+    "sha256_16": "8e8ea1dcac9e5df3"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.1_n700_k4.npz",
+    "bytes": 1453,
+    "sha256_16": "b53eb859a9e4450e"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.1_n700_k8.npz",
+    "bytes": 1375,
+    "sha256_16": "c84b017ea7327ac8"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.2_n20_k1.npz",
+    "bytes": 1805,
+    "sha256_16": "50af6416dbb7bb1e"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.2_n20_k2.npz",
+    "bytes": 1570,
+    "sha256_16": "586bfd20e3a36676"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.2_n20_k4.npz",
+    "bytes": 1454,
+    "sha256_16": "10c7222410e81075"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.2_n20_k8.npz",
+    "bytes": 1378,
+    "sha256_16": "8f6cfca2f7c69fb5"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.2_n4000_k1.npz",
+    "bytes": 1813,
+    "sha256_16": "fec5bbae2dca25ed"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.2_n4000_k2.npz",
+    "bytes": 1580,
+    "sha256_16": "ce521184f78e9e33"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.2_n4000_k4.npz",
+    "bytes": 1449,
+    "sha256_16": "5fb5a06fa5539cbf"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.2_n4000_k8.npz",
+    "bytes": 1373,
+    "sha256_16": "95dbb2464b960621"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.2_n700_k1.npz",
+    "bytes": 1812,
+    "sha256_16": "8fdcd6ad4a6e3a70"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.2_n700_k2.npz",
+    "bytes": 1576,
+    "sha256_16": "1df2ce0db704a4aa"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.2_n700_k4.npz",
+    "bytes": 1449,
+    "sha256_16": "7dc64ba8f81d0f10"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.2_n700_k8.npz",
+    "bytes": 1373,
+    "sha256_16": "7bc5d4ee08b9b105"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.4_n20_k1.npz",
+    "bytes": 1813,
+    "sha256_16": "95e374f31ba5488e"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.4_n20_k2.npz",
+    "bytes": 1574,
+    "sha256_16": "d74053921d0cdbf2"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.4_n20_k4.npz",
+    "bytes": 1448,
+    "sha256_16": "fd0dfa1f99a1dc18"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.4_n20_k8.npz",
+    "bytes": 1373,
+    "sha256_16": "30a04912d4090029"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.4_n4000_k1.npz",
+    "bytes": 1815,
+    "sha256_16": "4294479cca6aef4b"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.4_n4000_k2.npz",
+    "bytes": 1579,
+    "sha256_16": "89f44c74773e5a55"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.4_n4000_k4.npz",
+    "bytes": 1447,
+    "sha256_16": "7d80379168a4df58"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.4_n4000_k8.npz",
+    "bytes": 1373,
+    "sha256_16": "7477814d6514d2f9"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.4_n700_k1.npz",
+    "bytes": 1813,
+    "sha256_16": "ece786eacc852fb9"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.4_n700_k2.npz",
+    "bytes": 1585,
+    "sha256_16": "2239cd452d28653d"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.4_n700_k4.npz",
+    "bytes": 1451,
+    "sha256_16": "fecc29c42b1856b7"
+  },
+  {
+    "path": "checkpoints/models/dim_d8_eps0.4_n700_k8.npz",
+    "bytes": 1372,
+    "sha256_16": "db6434c439ca85e2"
+  },
+  {
+    "path": "checkpoints/models/graded_d12_epsnan_n20_k1.npz",
+    "bytes": 3051,
+    "sha256_16": "720e8939e0512d68"
+  },
+  {
+    "path": "checkpoints/models/graded_d12_epsnan_n20_k12.npz",
+    "bytes": 2058,
+    "sha256_16": "aa5bd8ff169a2813"
+  },
+  {
+    "path": "checkpoints/models/graded_d12_epsnan_n20_k2.npz",
+    "bytes": 2552,
+    "sha256_16": "0cb303b3b827b119"
+  },
+  {
+    "path": "checkpoints/models/graded_d12_epsnan_n20_k3.npz",
+    "bytes": 2367,
+    "sha256_16": "175bf8a38e815614"
+  },
+  {
+    "path": "checkpoints/models/graded_d12_epsnan_n20_k4.npz",
+    "bytes": 2249,
+    "sha256_16": "3c91e13e777e76c0"
+  },
+  {
+    "path": "checkpoints/models/graded_d12_epsnan_n20_k6.npz",
+    "bytes": 2165,
+    "sha256_16": "8af6b0774cbdd800"
+  },
+  {
+    "path": "checkpoints/models/graded_d12_epsnan_n40000_k1.npz",
+    "bytes": 3060,
+    "sha256_16": "b3c1cf12ab9dec89"
+  },
+  {
+    "path": "checkpoints/models/graded_d12_epsnan_n40000_k12.npz",
+    "bytes": 2056,
+    "sha256_16": "19fb99e929a50950"
+  },
+  {
+    "path": "checkpoints/models/graded_d12_epsnan_n40000_k2.npz",
+    "bytes": 2559,
+    "sha256_16": "da15c4db957a5bd6"
+  },
+  {
+    "path": "checkpoints/models/graded_d12_epsnan_n40000_k3.npz",
+    "bytes": 2362,
+    "sha256_16": "154f35b34a6d5c5b"
+  },
+  {
+    "path": "checkpoints/models/graded_d12_epsnan_n40000_k4.npz",
+    "bytes": 2249,
+    "sha256_16": "5d507e8c5d900a72"
+  },
+  {
+    "path": "checkpoints/models/graded_d12_epsnan_n40000_k6.npz",
+    "bytes": 2161,
+    "sha256_16": "cdbc2b71af27b07a"
+  },
+  {
+    "path": "checkpoints/models/graded_d12_epsnan_n600_k1.npz",
+    "bytes": 3054,
+    "sha256_16": "5db26f744c5c0849"
+  },
+  {
+    "path": "checkpoints/models/graded_d12_epsnan_n600_k12.npz",
+    "bytes": 2056,
+    "sha256_16": "425bc4bc27434ab2"
+  },
+  {
+    "path": "checkpoints/models/graded_d12_epsnan_n600_k2.npz",
+    "bytes": 2553,
+    "sha256_16": "1828a2eb17233b01"
+  },
+  {
+    "path": "checkpoints/models/graded_d12_epsnan_n600_k3.npz",
+    "bytes": 2367,
+    "sha256_16": "bce1fa828d66bb3b"
+  },
+  {
+    "path": "checkpoints/models/graded_d12_epsnan_n600_k4.npz",
+    "bytes": 2256,
+    "sha256_16": "c161987485435b6e"
+  },
+  {
+    "path": "checkpoints/models/graded_d12_epsnan_n600_k6.npz",
+    "bytes": 2164,
+    "sha256_16": "fe990423e0fb7ce2"
+  },
+  {
+    "path": "checkpoints/models/nonlinear_eps0.1_n3200_k12_W1.npz",
+    "bytes": 1016,
+    "sha256_16": "a2ab07e5e69428fe"
+  },
+  {
+    "path": "checkpoints/models/nonlinear_eps0.1_n3200_k12_W2.npz",
+    "bytes": 1016,
+    "sha256_16": "6d7bb97f139a1168"
+  },
+  {
+    "path": "checkpoints/models/nonlinear_eps0.1_n3200_k1_W1.npz",
+    "bytes": 3011,
+    "sha256_16": "ad8ef5c4acf815a9"
+  },
+  {
+    "path": "checkpoints/models/nonlinear_eps0.1_n3200_k1_W2.npz",
+    "bytes": 3008,
+    "sha256_16": "13f4b0437bf08a47"
+  },
+  {
+    "path": "checkpoints/models/nonlinear_eps0.1_n3200_k3_W1.npz",
+    "bytes": 1602,
+    "sha256_16": "f3eed3ffb694fb7a"
+  },
+  {
+    "path": "checkpoints/models/nonlinear_eps0.1_n3200_k3_W2.npz",
+    "bytes": 1603,
+    "sha256_16": "42c1ffbd91b06e67"
+  },
+  {
+    "path": "checkpoints/models/nonlinear_eps0.4_n3200_k12_W1.npz",
+    "bytes": 1012,
+    "sha256_16": "4b05b0e2b35f158b"
+  },
+  {
+    "path": "checkpoints/models/nonlinear_eps0.4_n3200_k12_W2.npz",
+    "bytes": 1010,
+    "sha256_16": "580eb04cda907eb1"
+  },
+  {
+    "path": "checkpoints/models/nonlinear_eps0.4_n3200_k1_W1.npz",
+    "bytes": 3016,
+    "sha256_16": "b34337daca112517"
+  },
+  {
+    "path": "checkpoints/models/nonlinear_eps0.4_n3200_k1_W2.npz",
+    "bytes": 3010,
+    "sha256_16": "b2eb0c0a17cdf388"
+  },
+  {
+    "path": "checkpoints/models/nonlinear_eps0.4_n3200_k3_W1.npz",
+    "bytes": 1602,
+    "sha256_16": "a9b9cde00157449b"
+  },
+  {
+    "path": "checkpoints/models/nonlinear_eps0.4_n3200_k3_W2.npz",
+    "bytes": 1605,
+    "sha256_16": "ef793d078244fea0"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.05_n20_k1.npz",
+    "bytes": 3044,
+    "sha256_16": "25568ff39853dc04"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.05_n20_k12.npz",
+    "bytes": 2048,
+    "sha256_16": "e01d2199e1e20507"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.05_n20_k2.npz",
+    "bytes": 2536,
+    "sha256_16": "226833cd423a477f"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.05_n20_k3.npz",
+    "bytes": 2355,
+    "sha256_16": "370c647e67867888"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.05_n20_k4.npz",
+    "bytes": 2262,
+    "sha256_16": "e0998cd40fbed0de"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.05_n20_k6.npz",
+    "bytes": 2166,
+    "sha256_16": "f1e8fa3238ed4f12"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.05_n250_k1.npz",
+    "bytes": 3048,
+    "sha256_16": "db60f352e6ce0b32"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.05_n250_k12.npz",
+    "bytes": 2049,
+    "sha256_16": "c169bb9c8e112c3b"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.05_n250_k2.npz",
+    "bytes": 2545,
+    "sha256_16": "0aef5095ba056073"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.05_n250_k3.npz",
+    "bytes": 2359,
+    "sha256_16": "c2cba3b60b696421"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.05_n250_k4.npz",
+    "bytes": 2265,
+    "sha256_16": "1c08432155e7597a"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.05_n250_k6.npz",
+    "bytes": 2162,
+    "sha256_16": "13dbd7e39039a2a5"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.05_n4000_k1.npz",
+    "bytes": 3046,
+    "sha256_16": "e0528f95528b4a1c"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.05_n4000_k12.npz",
+    "bytes": 2048,
+    "sha256_16": "d683c23be20ff971"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.05_n4000_k2.npz",
+    "bytes": 2544,
+    "sha256_16": "238c7762904b5beb"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.05_n4000_k3.npz",
+    "bytes": 2354,
+    "sha256_16": "8049052036371168"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.05_n4000_k4.npz",
+    "bytes": 2260,
+    "sha256_16": "37889715aae6366a"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.05_n4000_k6.npz",
+    "bytes": 2167,
+    "sha256_16": "89de2b8101cab63e"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.1_n20_k1.npz",
+    "bytes": 3040,
+    "sha256_16": "da1a68d9bba8954d"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.1_n20_k12.npz",
+    "bytes": 2046,
+    "sha256_16": "90e65d43a6e287e8"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.1_n20_k2.npz",
+    "bytes": 2540,
+    "sha256_16": "25565372d2528aa7"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.1_n20_k3.npz",
+    "bytes": 2354,
+    "sha256_16": "34d681a34953ccfa"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.1_n20_k4.npz",
+    "bytes": 2258,
+    "sha256_16": "1cfe5470569e59f1"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.1_n20_k6.npz",
+    "bytes": 2162,
+    "sha256_16": "b641cf23ca5c8f5a"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.1_n250_k1.npz",
+    "bytes": 3043,
+    "sha256_16": "92a1d23fa56b3c69"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.1_n250_k12.npz",
+    "bytes": 2053,
+    "sha256_16": "27bc9ce3920f65c8"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.1_n250_k2.npz",
+    "bytes": 2544,
+    "sha256_16": "48fad0ae3846f626"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.1_n250_k3.npz",
+    "bytes": 2355,
+    "sha256_16": "8712ac0122759f8c"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.1_n250_k4.npz",
+    "bytes": 2262,
+    "sha256_16": "680ac8288a0fb5cd"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.1_n250_k6.npz",
+    "bytes": 2162,
+    "sha256_16": "a395fdab2330650e"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.1_n4000_k1.npz",
+    "bytes": 3045,
+    "sha256_16": "daf1b46c5722dc1e"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.1_n4000_k12.npz",
+    "bytes": 2053,
+    "sha256_16": "afe87603c68e6b32"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.1_n4000_k2.npz",
+    "bytes": 2540,
+    "sha256_16": "3728ba5776bdf5ea"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.1_n4000_k3.npz",
+    "bytes": 2355,
+    "sha256_16": "7a878dfe07c33612"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.1_n4000_k4.npz",
+    "bytes": 2261,
+    "sha256_16": "70bd1014fdd3668a"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.1_n4000_k6.npz",
+    "bytes": 2168,
+    "sha256_16": "84b86b6182770d29"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.2_n20_k1.npz",
+    "bytes": 3044,
+    "sha256_16": "f50dad394d684004"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.2_n20_k12.npz",
+    "bytes": 2048,
+    "sha256_16": "5a0f50cc7cb9529c"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.2_n20_k2.npz",
+    "bytes": 2543,
+    "sha256_16": "6a8910b747e9b1f3"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.2_n20_k3.npz",
+    "bytes": 2359,
+    "sha256_16": "57dab09461b4221f"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.2_n20_k4.npz",
+    "bytes": 2265,
+    "sha256_16": "4a2280589fde12da"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.2_n20_k6.npz",
+    "bytes": 2158,
+    "sha256_16": "e759113a711a04ca"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.2_n250_k1.npz",
+    "bytes": 3047,
+    "sha256_16": "d71d5fa0f969f39f"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.2_n250_k12.npz",
+    "bytes": 2049,
+    "sha256_16": "709b135e251fe4a0"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.2_n250_k2.npz",
+    "bytes": 2546,
+    "sha256_16": "60d667679404fb9f"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.2_n250_k3.npz",
+    "bytes": 2365,
+    "sha256_16": "3eb100d97ebe642a"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.2_n250_k4.npz",
+    "bytes": 2262,
+    "sha256_16": "c2519931fd29cc06"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.2_n250_k6.npz",
+    "bytes": 2159,
+    "sha256_16": "cfbf7a98bd9e71b1"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.2_n4000_k1.npz",
+    "bytes": 3044,
+    "sha256_16": "5a2fdd80468f0429"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.2_n4000_k12.npz",
+    "bytes": 2050,
+    "sha256_16": "919416ac6bc569ea"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.2_n4000_k2.npz",
+    "bytes": 2543,
+    "sha256_16": "f555cad0ec0a9ab4"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.2_n4000_k3.npz",
+    "bytes": 2351,
+    "sha256_16": "0c28ddc32f5316dc"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.2_n4000_k4.npz",
+    "bytes": 2262,
+    "sha256_16": "2b90ac49605e71f6"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.2_n4000_k6.npz",
+    "bytes": 2163,
+    "sha256_16": "85c7863537f12dd4"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.4_n20_k1.npz",
+    "bytes": 3047,
+    "sha256_16": "01c9bd43caf11ef6"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.4_n20_k12.npz",
+    "bytes": 2053,
+    "sha256_16": "7bf7650a15bf8090"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.4_n20_k2.npz",
+    "bytes": 2552,
+    "sha256_16": "0960af2ece271302"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.4_n20_k3.npz",
+    "bytes": 2363,
+    "sha256_16": "5a2ed7faf48a921d"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.4_n20_k4.npz",
+    "bytes": 2262,
+    "sha256_16": "5deeff831fb1ab94"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.4_n20_k6.npz",
+    "bytes": 2169,
+    "sha256_16": "8fa9fe40a69d39a9"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.4_n250_k1.npz",
+    "bytes": 3052,
+    "sha256_16": "3b8fc022deb3e437"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.4_n250_k12.npz",
+    "bytes": 2063,
+    "sha256_16": "e241493a7c678169"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.4_n250_k2.npz",
+    "bytes": 2553,
+    "sha256_16": "4602f8a03009ae27"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.4_n250_k3.npz",
+    "bytes": 2369,
+    "sha256_16": "2b6ef48ddd327884"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.4_n250_k4.npz",
+    "bytes": 2264,
+    "sha256_16": "e2ab636a25b9a210"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.4_n250_k6.npz",
+    "bytes": 2172,
+    "sha256_16": "3d5563e9fd3b115c"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.4_n4000_k1.npz",
+    "bytes": 3056,
+    "sha256_16": "eae25422394894ed"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.4_n4000_k12.npz",
+    "bytes": 2054,
+    "sha256_16": "4b19f05cc0d3deaf"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.4_n4000_k2.npz",
+    "bytes": 2558,
+    "sha256_16": "e4084434ae5939fd"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.4_n4000_k3.npz",
+    "bytes": 2364,
+    "sha256_16": "5ddb94697b597212"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.4_n4000_k4.npz",
+    "bytes": 2262,
+    "sha256_16": "0b65a44b1c08943c"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.4_n4000_k6.npz",
+    "bytes": 2168,
+    "sha256_16": "9c698c88246f759c"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.8_n20_k1.npz",
+    "bytes": 3048,
+    "sha256_16": "0681047797aa9e5d"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.8_n20_k12.npz",
+    "bytes": 2049,
+    "sha256_16": "ac7314a3008effef"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.8_n20_k2.npz",
+    "bytes": 2542,
+    "sha256_16": "a21a7c32f5936b38"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.8_n20_k3.npz",
+    "bytes": 2357,
+    "sha256_16": "3b56625ae4598042"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.8_n20_k4.npz",
+    "bytes": 2258,
+    "sha256_16": "ded737d89f450463"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.8_n20_k6.npz",
+    "bytes": 2158,
+    "sha256_16": "e7fc4d122f363363"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.8_n250_k1.npz",
+    "bytes": 3055,
+    "sha256_16": "dac3684b562e0908"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.8_n250_k12.npz",
+    "bytes": 2048,
+    "sha256_16": "4773e415d5a93d58"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.8_n250_k2.npz",
+    "bytes": 2542,
+    "sha256_16": "f6b5ee4acbf045f3"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.8_n250_k3.npz",
+    "bytes": 2361,
+    "sha256_16": "e19eed17531545cc"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.8_n250_k4.npz",
+    "bytes": 2263,
+    "sha256_16": "cfffe43af2644e67"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.8_n250_k6.npz",
+    "bytes": 2160,
+    "sha256_16": "c21bbf59a66090f1"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.8_n4000_k1.npz",
+    "bytes": 3044,
+    "sha256_16": "13962ca461ebee51"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.8_n4000_k12.npz",
+    "bytes": 2049,
+    "sha256_16": "926732bac987afdc"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.8_n4000_k2.npz",
+    "bytes": 2544,
+    "sha256_16": "80d4f9db0b92ef32"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.8_n4000_k3.npz",
+    "bytes": 2359,
+    "sha256_16": "11f177f991cf3928"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.8_n4000_k4.npz",
+    "bytes": 2258,
+    "sha256_16": "54479bac2805778c"
+  },
+  {
+    "path": "checkpoints/models/phase_d12_eps0.8_n4000_k6.npz",
+    "bytes": 2160,
+    "sha256_16": "17e9219db22aa869"
+  },
+  {
+    "path": "checkpoints/stages/crossover.done",
+    "bytes": 16,
+    "sha256_16": "ffbda3e76258f9d0"
+  },
+  {
+    "path": "checkpoints/stages/dimension.done",
+    "bytes": 16,
+    "sha256_16": "ffbda3e76258f9d0"
+  },
+  {
+    "path": "checkpoints/stages/generic_defect.done",
+    "bytes": 16,
+    "sha256_16": "ffbda3e76258f9d0"
+  },
+  {
+    "path": "checkpoints/stages/graded.done",
+    "bytes": 16,
+    "sha256_16": "ffbda3e76258f9d0"
+  },
+  {
+    "path": "checkpoints/stages/nonabelian.done",
+    "bytes": 16,
+    "sha256_16": "ffbda3e76258f9d0"
+  },
+  {
+    "path": "checkpoints/stages/nonlinear.done",
+    "bytes": 16,
+    "sha256_16": "ffbda3e76258f9d0"
+  },
+  {
+    "path": "checkpoints/stages/phase_diagram.done",
+    "bytes": 16,
+    "sha256_16": "ffbda3e76258f9d0"
+  },
+  {
+    "path": "checkpoints/stages/theory_checks.done",
+    "bytes": 16,
+    "sha256_16": "ffbda3e76258f9d0"
+  },
+  {
+    "path": "checkpoints/stages/variance_constant.done",
+    "bytes": 16,
+    "sha256_16": "ffbda3e76258f9d0"
+  },
+  {
+    "path": "csv/coupling_fit.csv",
+    "bytes": 1207,
+    "sha256_16": "794527244287dd58"
+  },
+  {
+    "path": "csv/crossover_d12.csv",
+    "bytes": 363,
+    "sha256_16": "6e2fd6583a9ed269"
+  },
+  {
+    "path": "csv/crossover_d16.csv",
+    "bytes": 353,
+    "sha256_16": "204a56cf6694f400"
+  },
+  {
+    "path": "csv/crossover_d8.csv",
+    "bytes": 352,
+    "sha256_16": "8e91c7dae13d86ee"
+  },
+  {
+    "path": "csv/graded_defect_profile.csv",
+    "bytes": 588,
+    "sha256_16": "1ec71c96d171b9c3"
+  },
+  {
+    "path": "csv/graded_ladder.csv",
+    "bytes": 1941,
+    "sha256_16": "a79d54bdcdddc7bf"
+  },
+  {
+    "path": "csv/nonabelian_audit.csv",
+    "bytes": 9447,
+    "sha256_16": "7cd879cf426d9842"
+  },
+  {
+    "path": "csv/nonlinear_raw.csv",
+    "bytes": 25922,
+    "sha256_16": "d294671c44a2ef35"
+  },
+  {
+    "path": "csv/paper_constants_audit.csv",
+    "bytes": 1759,
+    "sha256_16": "f66a9645ba975b38"
+  },
+  {
+    "path": "csv/phase_cells_d12.csv",
+    "bytes": 2138,
+    "sha256_16": "4de5cde87b69fce6"
+  },
+  {
+    "path": "csv/phase_cells_d16.csv",
+    "bytes": 1755,
+    "sha256_16": "6f5db450ad0d07cc"
+  },
+  {
+    "path": "csv/phase_cells_d8.csv",
+    "bytes": 1094,
+    "sha256_16": "8d655ae47ad67cc0"
+  },
+  {
+    "path": "csv/phase_diagram_d12.csv",
+    "bytes": 39394,
+    "sha256_16": "39bbab5a97444900"
+  },
+  {
+    "path": "csv/phase_diagram_d16.csv",
+    "bytes": 26622,
+    "sha256_16": "5cebf799aee80919"
+  },
+  {
+    "path": "csv/phase_diagram_d8.csv",
+    "bytes": 13853,
+    "sha256_16": "97c6f7ff843b4f5c"
+  },
+  {
+    "path": "csv/table1_generic_defect.csv",
+    "bytes": 1235,
+    "sha256_16": "c02cf7d72b989b3f"
+  },
+  {
+    "path": "csv/table2_crossover.csv",
+    "bytes": 759,
+    "sha256_16": "fed8cccdee5e35ba"
+  },
+  {
+    "path": "csv/table3_nonlinear.csv",
+    "bytes": 2271,
+    "sha256_16": "9f59c08d67aea00d"
+  },
+  {
+    "path": "csv/table4_variance_constant.csv",
+    "bytes": 2715,
+    "sha256_16": "da32039828087b04"
+  },
+  {
+    "path": "csv/table5_dimension.csv",
+    "bytes": 197,
+    "sha256_16": "9c0c5ae67c35329c"
+  },
+  {
+    "path": "csv/theory_checks_curvature.csv",
+    "bytes": 478,
+    "sha256_16": "bd20eaa6432153b5"
+  },
+  {
+    "path": "csv/theory_checks_endpoints.csv",
+    "bytes": 206,
+    "sha256_16": "7b70805e60983b98"
+  },
+  {
+    "path": "csv/theory_checks_prop1.csv",
+    "bytes": 1050,
+    "sha256_16": "50d2ab92796af3d0"
+  },
+  {
+    "path": "csv/theory_checks_prop2.csv",
+    "bytes": 36660,
+    "sha256_16": "50a41a564043c3ed"
+  },
+  {
+    "path": "figures/figure1_risk_vs_n.pdf",
+    "bytes": 28267,
+    "sha256_16": "ffcdde72dc9f8812"
+  },
+  {
+    "path": "figures/figure1_risk_vs_n.png",
+    "bytes": 131955,
+    "sha256_16": "127e00b910f4fbbf"
+  },
+  {
+    "path": "figures/figure2_phase_diagram.pdf",
+    "bytes": 28192,
+    "sha256_16": "dc073003e6a2f574"
+  },
+  {
+    "path": "figures/figure2_phase_diagram.png",
+    "bytes": 92449,
+    "sha256_16": "885339743362af9e"
+  },
+  {
+    "path": "figures/figure3_graded_and_nonlinear.pdf",
+    "bytes": 31771,
+    "sha256_16": "d6585245c5262e44"
+  },
+  {
+    "path": "figures/figure3_graded_and_nonlinear.png",
+    "bytes": 156201,
+    "sha256_16": "fbf2dd633a11c8da"
+  },
+  {
+    "path": "figures/figure4_coupling_coefficient.pdf",
+    "bytes": 22173,
+    "sha256_16": "ef6e81a14b4e0d39"
+  },
+  {
+    "path": "figures/figure4_coupling_coefficient.png",
+    "bytes": 53092,
+    "sha256_16": "6d913dbb4773d840"
+  },
+  {
+    "path": "figures/figure5_nonabelian_affineness.pdf",
+    "bytes": 27497,
+    "sha256_16": "3fd31e96a050dcf5"
+  },
+  {
+    "path": "figures/figure5_nonabelian_affineness.png",
+    "bytes": 151314,
+    "sha256_16": "e40c596c83f24e5b"
+  },
+  {
+    "path": "results.json",
+    "bytes": 32729,
+    "sha256_16": "85625e6d1d8fdf7e"
+  },
+  {
+    "path": "validation.csv",
+    "bytes": 10229,
+    "sha256_16": "cdb3cd50378a939a"
+  }
+]
